@@ -1,4 +1,4 @@
-package DecoratorDesignPattern;
+package decoratorDesignPattern;
 
 public interface BaseCoffee {
     String discription();

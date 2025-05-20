@@ -1,10 +1,9 @@
-package ObserverDesignpattern.Observable;
-
-import ObserverDesignpattern.Observer.Observer_Interface;
+package observerDesignpattern.Observable;
+import observerDesignpattern.Observer.Observer_Interface;
 
 import java.util.ArrayList;
 
-public class Temperature implements Observable_Interface{
+public class Weather implements Observable_Interface {
     ArrayList<Observer_Interface> list = new ArrayList<>();
     private int source = 0;
 

@@ -1,8 +1,6 @@
-package ObserverDesignpattern.Observable;
+package observerDesignpattern.Observable;
 
-import ObserverDesignpattern.Observer.Observer_Interface;
-
-import java.util.ArrayList;
+import observerDesignpattern.Observer.Observer_Interface;
 
 public interface Observable_Interface {
 

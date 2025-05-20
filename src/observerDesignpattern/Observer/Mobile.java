@@ -1,7 +1,6 @@
-package ObserverDesignpattern.Observer;
+package observerDesignpattern.Observer;
 
-import ObserverDesignpattern.Observable.Observable_Interface;
-import ObserverDesignpattern.Observable.Weather;
+import observerDesignpattern.Observable.Observable_Interface;
 
 public class Mobile implements Observer_Interface {
     Observable_Interface obj;

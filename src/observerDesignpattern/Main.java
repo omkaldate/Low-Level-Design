@@ -1,9 +1,9 @@
-package ObserverDesignpattern;
+package observerDesignpattern;
 
-import ObserverDesignpattern.Observable.Temperature;
-import ObserverDesignpattern.Observable.Weather;
-import ObserverDesignpattern.Observer.Mobile;
-import ObserverDesignpattern.Observer.TV;
+import observerDesignpattern.Observable.Temperature;
+import observerDesignpattern.Observable.Weather;
+import observerDesignpattern.Observer.Mobile;
+import observerDesignpattern.Observer.TV;
 
 public class Main {
     public static void main(String[] args) {

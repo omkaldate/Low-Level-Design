@@ -1,4 +1,4 @@
-package DecoratorDesignPattern;
+package decoratorDesignPattern;
 
 public class Main {
     public static void main(String[] args) {

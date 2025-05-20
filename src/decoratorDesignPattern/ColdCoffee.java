@@ -1,4 +1,4 @@
-package DecoratorDesignPattern;
+package decoratorDesignPattern;
 
 public class ColdCoffee implements BaseCoffee{
 

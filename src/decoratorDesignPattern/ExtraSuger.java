@@ -1,4 +1,4 @@
-package DecoratorDesignPattern;
+package decoratorDesignPattern;
 
 public class ExtraSuger extends Decorator{
 
